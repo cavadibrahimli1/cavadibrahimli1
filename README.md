@@ -5,7 +5,7 @@
 
 # <div align="center">I'm Javad Ibrahimli, Electronics and Communication Enineering student @ ITU 👨‍💻 Cyber Security Enthusiast </div>  
   
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 
 ### Education:  
