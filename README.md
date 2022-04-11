@@ -122,7 +122,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rkqbvlytrpkemsdblkwkk7k6zy&cover_image=true&theme=default" /></div>  
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31rkqbvlytrpkemsdblkwkk7k6zy) <br> 
 
 <br/>  
 
