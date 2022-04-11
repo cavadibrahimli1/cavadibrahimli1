@@ -1,4 +1,7 @@
+
+
 <div align="center">
+  
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFRY5Hk0AuVAw/profile-displayphoto-shrink_800_800/0/1639610906350?e=1650499200&v=beta&t=DG4w_3qusjlrjeGi70u3Wyd9nnrP-gixAArwye5HPgY" align="center" style="width: 100%" />
 </div>  
   
@@ -66,6 +69,8 @@
 </div>
 
 </td></tr></table>  
+
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cavadibrahimli1/count.svg)
 
 <br/>  
 
