@@ -7,7 +7,7 @@ Disciplined Electronics and Communication Engineering student who has the abilit
 #### Education:
 🏫 Istanbul Technical University (2021-now)
 #### My major:
-📖 Electronics and Communication Engineering interested in IT and Cyber Security.
+📖 Electronics and Communication Engineering Student interested in IT and Cyber Security.
 ##### Fun fact:
 ⚡ I love Googling 
 
