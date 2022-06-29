@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hello%2C+My+name+is+Javad+Ibrahimli.)](https://git.io/typing-svg)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cavadibrahimli1&data=followers,repositories,stars,commits)](https://github.com/cavadibrahimli1)
+
 # 💫About Me :
 Disciplined Electronics and Communication Engineering student who has the ability to identify, formulate, and solve complex engineering problems by applying engineering, science, and math principles.
 #### Education:
@@ -34,18 +34,9 @@ Fun fact:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cavadibrahimli1&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavadibrahimli1&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=cavadibrahimli1&icon=5&color=0)](https://visitcount.itsvg.in)
-js,zig,css,wasm)](https://skillicons.dev)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
