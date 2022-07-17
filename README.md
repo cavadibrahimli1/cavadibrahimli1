@@ -11,18 +11,7 @@ Disciplined Electronics and Communication Engineering student who has the abilit
 ##### Fun fact:
 ⚡ I love Googling 
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cavad.ibrahimli.33/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javad_ibrahiml1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cavadibrahimli/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@javadibrahimli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Cavad_ibrahimli) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IamJavad_1907) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cavadibrahimli1) 
 
-
-
-## 💫About Me :
-Education:
-🏫 Istanbul Technical University (2021-now)
-My major:
-📖 Electronics and Communication Engineering interested in IT and Cyber Security.
-Fun fact:
-⚡ I love Googling 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cavad.ibrahimli.33/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javad_ibrahiml1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cavadibrahimli/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@javadibrahimli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Cavad_ibrahimli) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IamJavad_1907) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cavadibrahimli1) 
@@ -65,7 +54,6 @@ Fun fact:
 
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cavadibrahimli1/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 
  
@@ -75,16 +63,11 @@ Fun fact:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rkqbvlytrpkemsdblkwkk7k6zy)
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/javad-İbrahimli)
-
 
 
 
 # Medium articles:
 [![Javad Ibrahimli Medium](https://github-readme-medium.vercel.app/?username=javadibrahimli&limit=4&bg=black&text=white)](https://medium.com/@javadibrahimli)
-
 
 
 
