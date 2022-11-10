@@ -47,8 +47,6 @@ Disciplined Electronics and Communication Engineering student who has the abilit
 <!-- specific date -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-10-30&theme=basic)](https://moon-svg.minung.dev)
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-07-31&theme=basic)](https://moon-svg.minung.dev)
-
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cavadibrahimli1)](https://github.com/LordDashMe/github-contribution-stats/)
