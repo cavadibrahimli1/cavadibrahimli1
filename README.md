@@ -22,6 +22,9 @@ Like My Work?
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/cavadibrahimli1/documents/blob/ae5c1b88e1d411f1c68922ffa0ba1ca57d7dc2ba/26652e6329d71f0929b1e0f905c91cda.gif" />
 
+
+											
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Linux, Python, Metasploit, <br /> Nmap, C, Bash Scripting etc.
@@ -61,6 +64,10 @@ Like My Work?
 </div>  
 
 <br/>  
+
+<img align="left"  alt="" src="https://tryhackme-badges.s3.amazonaws.com/Cavad.png" />
+
+<br/>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
