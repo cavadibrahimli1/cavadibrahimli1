@@ -3,7 +3,7 @@
 ## Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cavadibrahimli1.github.io/javadibrahimli.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cavadibrahimli1.github.io/javadibrahimli1.github.io/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@javadibrahimli)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2986cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/cavad.ibrahimli.33/)
 [![Telegram Badge](https://img.shields.io/badge/-WhatsApp-46ba14?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/905526013984?text=)
@@ -97,8 +97,8 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Laptop: </b> Acer Swift 3 (i7 evo)</li>
+  	    <li><b>Browser: </b> Brave Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
