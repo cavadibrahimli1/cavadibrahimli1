@@ -1,6 +1,6 @@
 <img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/88d7431efb7ffcacfb7215aa2cc75a610fd22f67/Super%20(Banner%20(Landscape)).png" />
 
-# ***Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)***
+# Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cavadibrahimli1.github.io/javadibrahimli1.github.io/)
