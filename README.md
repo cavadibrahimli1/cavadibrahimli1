@@ -138,6 +138,10 @@ Like My Work?
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rkqbvlytrpkemsdblkwkk7k6zy)
 
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 
 
 
@@ -146,7 +150,7 @@ Like My Work?
 
  
 
-#
+
 
 <div align="center">
 
