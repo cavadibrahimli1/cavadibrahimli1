@@ -140,6 +140,7 @@ Like My Work?
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions (What If?, #2)](https://www.goodreads.com/review/show/5119592836?utm_medium=api&utm_source=rss) by Randall Munroe (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 
