@@ -1,6 +1,6 @@
-<img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/a3e3b78d05a6e607d36ca58ae52ab0f337f86035/30735efdde7e4b59ac046f1f2272360c.jpg" />
+<img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/88d7431efb7ffcacfb7215aa2cc75a610fd22f67/Super%20(Banner%20(Landscape)).png" />
 
-## Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
+# ***Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)***
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cavadibrahimli1.github.io/javadibrahimli1.github.io/)
@@ -124,6 +124,7 @@ Like My Work?
 
 <div align="left"> 
 
+
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
@@ -144,9 +145,7 @@ Like My Work?
 [![Javad Ibrahimli Medium](https://github-readme-medium.vercel.app/?username=javadibrahimli&limit=4&bg=black&text=white)](https://medium.com/@javadibrahimli)
 
  
----
-[![](https://visitcount.itsvg.in/api?id=cavadibrahimli1&icon=5&color=0)](https://visitcount.itsvg.in)
- 
+
 #
 
 <div align="center">
