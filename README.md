@@ -140,8 +140,8 @@ Like My Work?
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [How to Start Your Own Business: The Facts Visually Explained](https://www.goodreads.com/review/show/5320221281?utm_medium=api&utm_source=rss) by D.K. Publishing (⭐️3.73)
 - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.goodreads.com/review/show/5319770411?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.31)
-- [What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions (What If?, #2)](https://www.goodreads.com/review/show/5119592836?utm_medium=api&utm_source=rss) by Randall Munroe (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 
