@@ -1,4 +1,4 @@
-<img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/88d7431efb7ffcacfb7215aa2cc75a610fd22f67/Super%20(Banner%20(Landscape)).png" />
+<img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/e23a9222551a90d8a279cde746ecaeaa8ae29e85/technology-background-1632715.jpg" />
 
 # Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
