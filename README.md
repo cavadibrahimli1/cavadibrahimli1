@@ -140,7 +140,7 @@ Like My Work?
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [How to Start Your Own Business: The Facts Visually Explained](https://www.goodreads.com/review/show/5320221281?utm_medium=api&utm_source=rss) by D.K. Publishing (⭐️3.73)
+- [Robot Operating System (Ros) for Absolute Beginners: Robotics Programming Made Easy](https://www.goodreads.com/review/show/5336394737?utm_medium=api&utm_source=rss) by Lentin Joseph (⭐️3.8)
 - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.goodreads.com/review/show/5319770411?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
