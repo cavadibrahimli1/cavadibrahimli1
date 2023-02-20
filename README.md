@@ -140,7 +140,7 @@ Like My Work?
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.goodreads.com/review/show/5319770411?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.31)
+- [İnsan Vücuduna Seyahat](https://www.goodreads.com/review/show/5359687644?utm_medium=api&utm_source=rss) by Gavin Francis (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
 
