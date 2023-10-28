@@ -1,4 +1,4 @@
-<img align="left" height="450" width="1000" alt="" src="https://github.com/cavadibrahimli1/documents/blob/e23a9222551a90d8a279cde746ecaeaa8ae29e85/technology-background-1632715.jpg" />
+<img align="left" height="450" width="1000" alt="" src="[https://github.com/cavadibrahimli1/cavadibrahimli1/blob/main/assets/Lidar_blog.png)" />
 
 # Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
@@ -10,9 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cavadibrahimli1.cavadibrahimli1&style=flat-square&color=0088cc)
 
-I'm disciplined Electronics and Communication Engineering student with a cyber security background and hundreds of classroom hours in cloud safety, automation, and digital forensics. Seeking to leverage newly‑minted top‑secret security clearance and become the next IT‑based network security engineer. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Cyber Security 🕸️ and working on IT and Cloud Computing 🤓.
-
-Joined Github **3** years ago.
+I am a dedicated and accomplished researcher in the realm of Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles, with a specialized focus on Lidar technology, sensor systems, perception algorithms, sensor fusion, localization techniques, and Simultaneous Localization and Mapping (SLAM). Currently, I am concurrently pursuing Electronics and Communication Engineering at ITU. My professional goal is to continue contributing to the forefront of autonomous systems research, with a keen focus on reshaping the future of transportation. I bring a solid foundation in core principles, paired with a strong commitment to safety and innovation, making me a valuable asset to any academic or industry team.
 
 
 Like My Work?
@@ -27,8 +25,8 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Linux, Python, Metasploit, <br /> Nmap, C, Bash Scripting etc.
-- 🚀 &nbsp; I’m currently learning Cyber Security, IT and Cloud Computing.
+- 🛠 &nbsp; I’m currently working with Linux, Python, ROS1/ROS2, <br /> Lidar, C++, Git etc.
+- 🚀 &nbsp; I’m currently learning Autonomous Systems, Machine Learning and Robotics.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cavadibrahimli1).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
 - 📫 &nbsp; How to reach me: cenabibrahimov@gmail.com.
@@ -63,12 +61,6 @@ Like My Work?
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 </div>  
 
-<br/>  
-
-<img align="left"  alt="" src="https://tryhackme-badges.s3.amazonaws.com/Cavad.png" />
-
-<br/>
-
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
@@ -92,20 +84,6 @@ Like My Work?
 
 
  
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> Acer Swift 3 (i7 evo)</li>
-  	    <li><b>Browser: </b> Brave Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	
-	</ul>	
-</details>
 
 <div align="center">
 
@@ -114,43 +92,18 @@ Like My Work?
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 
 <div align="left"> 
 
-
-<!-- real time -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
-
-<!-- specific date -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-10-30&theme=basic)](https://moon-svg.minung.dev)
-
-
-
-
  
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rkqbvlytrpkemsdblkwkk7k6zy)
 
-### Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-- [İnsan Vücuduna Seyahat](https://www.goodreads.com/review/show/5359687644?utm_medium=api&utm_source=rss) by Gavin Francis (⭐️3.91)
-<!-- GOODREADS-LIST:END -->
-
-
-
 
 # Medium articles:
 [![Javad Ibrahimli Medium](https://github-readme-medium.vercel.app/?username=javadibrahimli&limit=4&bg=black&text=white)](https://medium.com/@javadibrahimli)
-
- 
-
 
 
 <div align="center">
