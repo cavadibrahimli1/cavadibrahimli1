@@ -26,7 +26,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Linux, Python, ROS1/ROS2, <br /> Lidar, C++, Git etc.
+- 🛠 &nbsp; I’m currently working with Linux, Python, Perception, <br /> Lidar, C++, Git, SLAM etc.
 - 🚀 &nbsp; I’m currently learning Autonomous Systems, Machine Learning and Robotics.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cavadibrahimli1).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
