@@ -1,4 +1,5 @@
-<img align="left" height="450" width="1000" alt="" src="[https://github.com/cavadibrahimli1/cavadibrahimli1/blob/main/assets/Lidar_blog.png)" />
+![image](https://github.com/cavadibrahimli1/cavadibrahimli1/assets/76445357/39780fe7-b7e9-47bd-b76a-be1ce2784da1)
+
 
 # Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
