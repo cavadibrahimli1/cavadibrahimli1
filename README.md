@@ -54,7 +54,7 @@ I am a dedicated and accomplished researcher in the realm of Advanced Driver Ass
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkqbvlytrpkemsdblkwkk7k6zy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
