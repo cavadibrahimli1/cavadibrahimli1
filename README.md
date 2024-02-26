@@ -23,7 +23,7 @@ I am a dedicated and accomplished researcher in the realm of Advanced Driver Ass
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cavadibrahimli1).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
 - 📫 &nbsp; How to reach me: cenabibrahimov@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/cavadibrahimli1/documents/blob/7c41bd20e6202c3039620e01f7f0521d425f3774/JavadCv.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/cavadibrahimli1/documents/blob/main/Javad_Cv.pdf).
 
 
 ### My Absolute Favorites:
