@@ -1,83 +1,65 @@
-![image](https://github.com/cavadibrahimli1/cavadibrahimli1/assets/76445357/39780fe7-b7e9-47bd-b76a-be1ce2784da1)
-
-
 # Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cavadibrahimli1.github.io/javadibrahimli1.github.io/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@javadibrahimli)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-2986cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/cavad.ibrahimli.33/)
-[![Telegram Badge](https://img.shields.io/badge/-WhatsApp-46ba14?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/905526013984?text=)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
+[![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://web.itu.edu.tr/ibrahimli21/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@javadibrahimli)
+[![Facebook](https://img.shields.io/badge/-Facebook-2986cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/cavad.ibrahimli.33/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-46ba14?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/905526013984?text=)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cavadibrahimli1.cavadibrahimli1&style=flat-square&color=0088cc)
+### Welcome to my GitHub! &nbsp; 
 
-I am a dedicated and accomplished researcher in the realm of Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles, with a specialized focus on Lidar technology, sensor systems, perception algorithms, sensor fusion, localization techniques, and Simultaneous Localization and Mapping (SLAM). Currently, I am concurrently pursuing Electronics and Communication Engineering at ITU. My professional goal is to continue contributing to the forefront of autonomous systems research, with a keen focus on reshaping the future of transportation. I bring a solid foundation in core principles, paired with a strong commitment to safety and innovation, making me a valuable asset to any academic or industry team.
-
+I am a dedicated researcher in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles, with a focus on Lidar technology, sensor systems, perception algorithms, sensor fusion, localization techniques, and Simultaneous Localization and Mapping (SLAM). Currently, I am studying Electronics and Communication Engineering at ITU. My professional goal is to advance autonomous systems research and reshape the future of transportation.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/cavadibrahimli1/documents/blob/ae5c1b88e1d411f1c68922ffa0ba1ca57d7dc2ba/26652e6329d71f0929b1e0f905c91cda.gif" />
-											
-### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Linux, Python, Perception, <br /> Lidar, C++, Git, SLAM etc.
-- 🚀 &nbsp; I’m currently learning Autonomous Systems, Machine Learning and Robotics.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cavadibrahimli1).
+### About Me:
+
+- 🛠 &nbsp; Currently working with: Linux, Python, Perception, Lidar, C++, Git, SLAM.
+- 🚀 &nbsp; Learning: Autonomous Systems, Machine Learning, Robotics.
+- 👨🏻‍💻 &nbsp; Most projects are available on [GitHub](https://github.com/cavadibrahimli1).
 - 👾 &nbsp; Fun fact: Googling is my favorite activity.
-- 📫 &nbsp; How to reach me: cenabibrahimov@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/cavadibrahimli1/documents/blob/main/Javad_Cv.pdf).
+- 📫 &nbsp; Contact: cenabibrahimov@gmail.com.
+- 📝 &nbsp; [Resume](https://github.com/cavadibrahimli1/documents/blob/main/Javad_Cv.pdf).
 
+### My Favorites:
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; Exploring new tech stacks and building cool stuff.
+- 📰 &nbsp; Reading & writing tech blogs.
+- 🍕 &nbsp; Participating in hackathons, meetups & tech events.
 
 ## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,ros,python,tensorflow,latex,matlab,vscode,r,linux,git,github,cmake,arduino)](https://skillicons.dev)
 
-### Projects and Dev Stuffs:
+### Projects and Stats:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavadibrahimli1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavadibrahimli1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavadibrahimli1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
+  <summary><b>☄️ GitHub Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cavadibrahimli1&hide_border=true" />
 </details> 
 
 <div align="center">
-
-
-
-## 🏆GitHub Trophies
+  
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="left"> 
-# Medium articles:
+</div>
 
-
-
-
-
- 
+## Medium Articles
 [![Javad Ibrahimli Medium](https://github-readme-medium.vercel.app/?username=javadibrahimli&limit=4&bg=black&text=white)](https://medium.com/@javadibrahimli)
 
-Like My Work?
-
+## Support My Work
 <a href="https://ko-fi.com/javadibrahimli" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-
-
-
+  
+### Show some ❤️ by starring some repositories!
+  
 </div>
