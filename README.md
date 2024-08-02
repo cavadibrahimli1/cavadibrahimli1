@@ -1,5 +1,8 @@
 # Hey 👋, I'm [Javad Ibrahimli](https://github.com/cavadibrahimli1/)
 
+
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
 [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://web.itu.edu.tr/ibrahimli21/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@javadibrahimli)
@@ -30,27 +33,33 @@ I am a dedicated researcher in Advanced Driver Assistance Systems (ADAS) and Aut
 ## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,ros,python,tensorflow,latex,matlab,vscode,r,linux,git,github,cmake,arduino)](https://skillicons.dev)
 
-### Projects and Stats:
+## Projects and Stats
 
-<details>	
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavadibrahimli1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavadibrahimli1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ GitHub Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cavadibrahimli1&hide_border=true" />
-</details> 
+### ⚡ GitHub Stats
 
 <div align="center">
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavadibrahimli1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavadibrahimli1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </div>
+
+### ☄️ GitHub Streaks
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cavadibrahimli1&hide_border=true&theme=dark" alt="GitHub Streaks" />
+</div>
+
+### 📊 Vscode stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=javadibrahimli&layout=compact&theme=dark&range=all_time" alt="Wakatime Stats" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cavadibrahimli1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 
 ## Medium Articles
 [![Javad Ibrahimli Medium](https://github-readme-medium.vercel.app/?username=javadibrahimli&limit=4&bg=black&text=white)](https://medium.com/@javadibrahimli)
