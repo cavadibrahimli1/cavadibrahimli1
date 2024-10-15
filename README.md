@@ -48,11 +48,6 @@ I am a dedicated researcher in Advanced Driver Assistance Systems (ADAS) and Aut
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cavadibrahimli1&hide_border=true&theme=dark" alt="GitHub Streaks" />
 </div>
 
-### 📊 Vscode stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=javadibrahimli&layout=compact&theme=dark&range=all_time" alt="Wakatime Stats" />
-</div>
 
 ### 🏆 GitHub Trophies
 
